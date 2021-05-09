@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    background-image: url("D:\pride.jpg");
+    background-size: 1536px 750px;
+    background-repeat: no-repeat;
+}
+.harshpride{
+    height: 120px;
+    width: 500px;
+    position: absolute;
+    right: 80px;
+    
+}
+.harshpride h1{
+    text-align: center;
+    margin-top: 0;
+    font-size: 80px;
+    font-family: 'Luckiest Guy', cursive;
+}
+.admin{
+    
+     position: absolute;
+    width: 200px;
+    height: 150px;
+    background-color: greenyellow;
+    right: 320px;
+    top: 150px;
+    text-align: center;
+}
+.admin h1{
+   text-align: center;
+}
+.admin a{
+    text-decoration: none;
+    color: #ff3333;
+    background-color: #ff9999;
+    margin: 10px;
+    display: inherit;
+    padding: 5px;
+}
+.users{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    background-color: #99ffff;
+    right: 100px;
+    top: 150px;
+    text-align: center;
+} 
+.users h1{
+    text-align: center;
+}
+.users a{
+     text-decoration: none;
+     color:#333333;
+    background-color:#ffff33;
+    margin: 10px;
+    display: inherit;
+    padding:5px;
+
+      
+}
+.users a:visited{
+    color: brown;
+}
+.users a:hover{
+    color: #66ff66;
+}
